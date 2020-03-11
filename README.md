@@ -1,11 +1,11 @@
-#All Font Names
+# All Font Names
 
-###Mapping all font names in France
+### Mapping all font names in France
 
 
 Enjoy a trip to Fontland, make a stop in Fontville, and stay in Bellefont. France is the land of fonts. In order to help you plan your photoshoots during your holidays on the French Riviera or in Southern Provence, we put together this map with localities containing the word “Font” in their name. 
 
-###Nota Bene
+### Nota Bene
 Actually, *almost* all font names are registered here. We discarded names that are not obviously connected to fonts, such as *Fontenay* or *Fontanelle*, while retaining the most appealing ones. This is a completely discretionary and arbitrary list.  
 
 
@@ -19,7 +19,7 @@ This website makes use of the following resources:
 * [EUCircos database](https://www.data.gouv.fr/fr/datasets/listes-des-communes-geolocalisees-par-regions-departements-circonscriptions-nd/)  
 
 
-Licenses
+### Licenses
 
 * OpenStreetMap [ODbl](https://opendatacommons.org/licenses/odbl/)
 * uMap content [WTFPL](https://github.com/umap-project/umap)
@@ -28,5 +28,5 @@ Licenses
 * BANO [ODbl](https://opendatacommons.org/licenses/odbl/)
 * EUCircos [ODbl](https://opendatacommons.org/licenses/odbl/)
 
-Credits  
+### Credits  
 Design: Production Type, 2020, Marion Sendral assisted by Lauranne Perrot.
