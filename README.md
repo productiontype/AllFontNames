@@ -1,6 +1,6 @@
 # All Font Names
 
-### Mapping all font names in France
+### Mapping font names in France
 
 
 Enjoy a trip to Fontland, make a stop in Fontville, and stay in Bellefont. France is the land of fonts. In order to help you plan your photoshoots during your holidays on the French Riviera or in Southern Provence, we put together this map with localities containing the word “Font” in their name. 
