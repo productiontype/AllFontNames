@@ -12,7 +12,8 @@ Actually, *almost* all font names are registered here. We discarded names that a
 This website makes use of the following resources:  
 
 * [OpenStreetMap](https://www.openstreetmap.org/#map=6/46.449/2.210)
-* [uMap](https://umap.openstreetmap.fr/fr/)  
+* [uMap](https://umap.openstreetmap.fr/fr/)
+* [Leaflet](https://leafletjs.com/)    
 * [City Roads](https://anvaka.github.io/city-roads/)  
 * [FANTOIR database of France's toponyms](https://www.data.gouv.fr/fr/datasets/fichier-fantoir-des-voies-et-lieux-dits/)  
 * [BANO database of Open National Address Database](https://www.data.gouv.fr/fr/datasets/base-d-adresses-nationale-ouverte-bano/)  
@@ -23,6 +24,7 @@ This website makes use of the following resources:
 
 * OpenStreetMap [ODbl](https://opendatacommons.org/licenses/odbl/)
 * uMap content [WTFPL](https://github.com/umap-project/umap)
+* Leaflet content [BSD 2-clauses](https://github.com/Leaflet)
 * City Roads [MIT](https://github.com/anvaka/city-roads/blob/master/LICENSE)
 * FANTOIR [Open License](https://www.etalab.gouv.fr/licence-ouverte-open-licence)
 * BANO [ODbl](https://opendatacommons.org/licenses/odbl/)
